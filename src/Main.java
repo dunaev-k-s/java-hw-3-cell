@@ -9,6 +9,6 @@ public class Main {
             count_rub = count_rub + refill_rub + bonus;
         }
         System.out.println("Bonus = " + bonus);
-        System.out.println("Count = "+ count_rub);
+        System.out.println("Count = " + count_rub);
     }
 }
